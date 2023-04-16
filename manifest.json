@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.ThemeTemplate",
-  "name": "Theme Template",
-  "description": "A theme template",
+  "id": "dev.masuteri.DarkPink",
+  "name": "Dark-and-pink",
+  "description": "Pink and dark gray go well together",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Sinisilmä",
+    "discordID": "559347425983070229",
+    "github": "masuteri"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/theme-template"
+    "id": "masuteri/my-personal-theme"
   },
   "license": "MIT",
   "type": "replugged-theme",
