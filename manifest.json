@@ -7,7 +7,7 @@
     "discordID": "559347425983070229",
     "github": "masuteri"
   },
-  "version": "1.0.0",
+  "version": "0.0.1",
   "updater": {
     "type": "github",
     "id": "masuteri/my-personal-theme"
